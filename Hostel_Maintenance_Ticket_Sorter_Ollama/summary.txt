@@ -1,0 +1,9 @@
+HOSTEL MAINTENANCE TICKET SORTER SUMMARY
+Run date: 2026-11-19
+Complaints read: 22
+Work orders created: 20
+Urgent work orders: 7
+Needs more information: 1
+
+Human checkpoint: Warden must review every urgent ticket and assign/close all work.
+This tool never closes a maintenance ticket.

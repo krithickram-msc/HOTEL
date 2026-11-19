@@ -1,0 +1,21 @@
+﻿ticket_id,room,issue,urgency,team,due_date,summary,status
+H001,A05,electrical,urgent,Electrical Team,2026-11-19,Sparks coming from electrical switch in room A05,OPEN - WARDEN REVIEW REQUIRED
+H002,B12,plumbing,normal,Plumbing Team,2026-11-21,Room B12 washbasin tap is leaking.,OPEN - WARDEN REVIEW REQUIRED
+H003,C08,internet,normal,IT Support Team,2026-11-21,Internet not working in Room C-08.,OPEN - WARDEN REVIEW REQUIRED
+H004,D03,other,normal,Maintenance Team,2026-11-21,Ceiling fan in room D03 is making noise.,OPEN - WARDEN REVIEW REQUIRED
+H005,A11,cleaning,urgent,Housekeeping Team,2026-11-19,"Water overflow in bathroom, room A11.",OPEN - WARDEN REVIEW REQUIRED
+H006,B04,cleaning,normal,Housekeeping Team,2026-11-21,Room B04 needs floor cleaning.,OPEN - WARDEN REVIEW REQUIRED
+H007,C15,electrical,urgent,Electrical Team,2026-11-19,Burning smell near electrical plug in room C-15,OPEN - WARDEN REVIEW REQUIRED
+H008,D19,other,normal,Maintenance Team,2026-11-21,Room D19 door hinge is broken.,OPEN - WARDEN REVIEW REQUIRED
+H009,A02,internet,normal,IT Support Team,2026-11-21,No Wi-Fi connection in room A02.,OPEN - WARDEN REVIEW REQUIRED
+H010,B17,electrical,urgent,Electrical Team,2026-11-19,Water near electrical switch in room B17,OPEN - WARDEN REVIEW REQUIRED
+H011,C03,plumbing,normal,Plumbing Team,2026-11-21,Bathroom pipe in room C-03 is leaking.,OPEN - WARDEN REVIEW REQUIRED
+H012,D07,other,normal,Maintenance Team,2026-11-21,Window latch in room D07 is broken.,OPEN - WARDEN REVIEW REQUIRED
+H013,A09,cleaning,urgent,Housekeeping Team,2026-11-19,Room A09 requires immediate cleaning due to urgent condition.,OPEN - WARDEN REVIEW REQUIRED
+H014,B02,electrical,urgent,Electrical Team,2026-11-19,Electric shock in room B02,OPEN - WARDEN REVIEW REQUIRED
+H015,C20,other,normal,Maintenance Team,2026-11-21,Light bulb in room C20 is not working.,OPEN - WARDEN REVIEW REQUIRED
+H016,D12,cleaning,normal,Housekeeping Team,2026-11-21,Corridor in Room D12 is dirty.,OPEN - WARDEN REVIEW REQUIRED
+H017,A18,other,normal,Maintenance Team,2026-11-21,Desk drawer in room A18 is broken.,OPEN - WARDEN REVIEW REQUIRED
+H018,B08,other,urgent,Maintenance Team,2026-11-19,"Flooding in bathroom, Room B08",OPEN - WARDEN REVIEW REQUIRED
+H019,C06,internet,normal,IT Support Team,2026-11-21,Internet connection slow in room C-06,OPEN - WARDEN REVIEW REQUIRED
+H020,D15,plumbing,normal,Plumbing Team,2026-11-21,Water tap in room D15 is dripping.,OPEN - WARDEN REVIEW REQUIRED
